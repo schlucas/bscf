@@ -40,7 +40,7 @@ ZVR: 1932495705
 
 E-Mail: bscf@gmx.at
 
-##### Organschaftliche Vertreter
+#### Organschaftliche Vertreter
 Obmann: Lucas Markovic<br/>
 Schriftführer: Simon Markovic<br/>
 Kassierin: Katja Bodenmüller
