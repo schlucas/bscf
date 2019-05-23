@@ -1,4 +1,4 @@
-![](BSCF-logo3.png {width=200px height=200px})
+![](BSCF-logo3.png)
 
 # Ballspielclub Frastanz
 
