@@ -1,39 +1,28 @@
-## Welcome to GitHub Pages
+## Ballspielclub Frastanz
 
-test
+temporäre Webseite des BSCF
 
-You can use the [editor on GitHub](https://github.com/schlucas/bscf/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Training
+Turnhalle Volksschule
+Schmittengasse 4
+6820 Frastanz, AT
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mittwoch 20 bis 22 Uhr
 
-### Markdown
+# Kontakt
+[Email](mailto:bscf@gmx.at)
+[Instagram](https://www.instagram.com/ballspielclubfrastanz/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Bankverbindung
+IBAN: AT95 2060 4031 0238 7341
 
-```markdown
-Syntax highlighted code block
+Wir sind ein Verein aus Frastanz und spielen einmal die Woche klassische Spiele wie man sie aus dem Sportunterreicht der Schulen kennt. 
+Entstanden ist der Verein durch einige Freunde die einfach Lust hatten Völkerball zu spielen.
+Völkerball, Merkball, Brennball aber auch moderne Spiele werden bei uns gespielt. Wir probieren immer wieder mal neue Spiele durch. Wenns gefällt, wirds gespielt.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/schlucas/bscf/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
