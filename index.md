@@ -1,4 +1,5 @@
-![](BSCF-logo3.png =100x100)
+
+<img src="BSCF-logo3.png" alt="logo" width="100"/>
 
 # Ballspielclub Frastanz
 
