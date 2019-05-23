@@ -1,3 +1,5 @@
+![](BSCF-logo3.png)
+
 # Ballspielclub Frastanz
 
 
@@ -28,7 +30,20 @@ Schmittengasse 4<br/>
 
 <br/><br/>
 ### Bankverbindung
+Sparkasse Feldkirch
 IBAN: AT95 2060 4031 0238 7341
+
+
+### Verein
+Ballspielclub Frastanz
+ZVR: 1932495705
+
+Organschaftliche Vertreter
+Obmann/Obfrau: Lucas Markovic
+Obmann/Obfrau Stellvertreter: Simon Markovic
+
+Vereinssitz: 6820 Frastanz
+E-Mail: bscf@gmx.at
 
 
 
