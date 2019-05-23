@@ -1,4 +1,4 @@
-![](BSCF-logo3.png)
+![](BSCF-logo3.png =100x)
 
 # Ballspielclub Frastanz
 
@@ -35,14 +35,14 @@ IBAN: AT95 2060 4031 0238 7341
 
 
 ### Verein
-Ballspielclub Frastanz
+Ballspielclub Frastanz<br/>
 ZVR: 1932495705
 
-Organschaftliche Vertreter
-Obmann/Obfrau: Lucas Markovic
+Organschaftliche Vertreter<br/>
+Obmann/Obfrau: Lucas Markovic<br/>
 Obmann/Obfrau Stellvertreter: Simon Markovic
 
-Vereinssitz: 6820 Frastanz
+Vereinssitz: 6820 Frastanz<br/>
 E-Mail: bscf@gmx.at
 
 
