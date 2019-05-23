@@ -1,4 +1,4 @@
-![](BSCF-logo3.png =100x)
+![](BSCF-logo3.png =100x100)
 
 # Ballspielclub Frastanz
 
@@ -30,7 +30,7 @@ Schmittengasse 4<br/>
 
 <br/><br/>
 ### Bankverbindung
-Sparkasse Feldkirch
+Sparkasse Feldkirch<br/>
 IBAN: AT95 2060 4031 0238 7341
 
 
